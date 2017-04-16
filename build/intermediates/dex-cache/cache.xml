@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\4278bfe4f346450fb37dd2d6dd4def22f63351aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a3dc8eb1094979e0d5efce5ecab66bde8c3aa9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_0082304d7ff5ca5111cd69f2e2cba6330af91c4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\ae382c5ad10ca2dace0657113d971d5bba133990\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c25f5f9b82c9c4d78cf7ab6db5a0aeed8e108e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\36073fb55fd971ab424904b4060ca3071b398af7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9cdbd4d87033ed6a532e65a9196730d71a5ad57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\be4907f32af302b38542357b561bf4db898d49f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abc734a242179850f36a9955d7418bdf83b0cdb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\c4b64e399c4b53c48fca30db365c11754507aa35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe157c4e7b519945db48add3754c02da05fcca2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\30c83608d2351d845d6275274489cfd23410b674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12855e60c5b1f836771b8e2f341f8471802c98e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\98611987d7d19752e92b6cb1444a13e05a58a6a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fea8956e9b2d3d4edc5b50d12adbb25349ec02d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\f18c019adae3b21c976399b0417dcca35731cc85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e3ed3c988f6025f461395ae3a7cffc04b73ef1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\9a145840b65e2bf275fd920b4a0eba84495f79bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73362598ae30108e973abe9247d27ad9106435e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\fcdc3f92a066f551a81c8eb15476e54e261141b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66fbd7e615ef5cbcce3da4c0574378620b19e57d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProje\FloatingWidget\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0154059c0bb34232e1faf13d51efa6a932d42322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProje\FloatingWidget\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76223e82988cf986c63f910f38975de6f45ff68e">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bb567490d1ff52001376fd2fdb13805ac38142f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\ede661a63c311aaf4dcdf8de350ba73808b0bf63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f7d055b9721dee2c9a8ef8504c36df3a7fe8c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TUĞBA\.android\build-cache\a92edf70424430c7364b0517e95f3a12dc7e5710\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\AndroidProje\FloatingWidget\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22dc7009ad2fe3b55ea9c4a5ed90d0122bb2f453\classes.dex" />
+    </item>
+
+</items>
